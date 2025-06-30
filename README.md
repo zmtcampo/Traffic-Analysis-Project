@@ -166,12 +166,7 @@ The summarized data was used to generate two interactive charts via Python's Das
 - Bar Chart: Comparative analysis
 
 #### Dashboard Preview
-Attached are static snapshots of the dashboard. For the full interactive experience, access the live version [here](https://0197941d-db63-d977-4e09-be7034d87d99.share.connect.posit.cloud/)
+Attached are static snapshots of the dashboard. For the full interactive experience, access the live version [here](https://0197941d-db63-d977-4e09-be7034d87d99.share.connect.posit.cloud/), and the code can be found [here](https://github.com/zmtcampo/cmp_portfolio_app).
 
 ![dash_f1_line](https://github.com/user-attachments/assets/15fe4bbe-4bec-42df-bffa-fec7065bb0b5)
 ![dash_f2_bar](https://github.com/user-attachments/assets/1d130928-efa3-444c-af2a-8bdc2bedfafc)
-
-
-```sql
-
-```
